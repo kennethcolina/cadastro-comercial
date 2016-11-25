@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="applav.poo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/bag"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.LoginActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.MenuFuncActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ClienteActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.RoupaActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.VendaActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.FuncionarioActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.MenuGerenteActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ConsultaRoupaActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.MenuConsultasActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ConsultaFuncActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ConsultaClienteActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ExibeDetalhesActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ExibeDetalhesFuncActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ExibeDetalhesClienteActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ConsultaVendaActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ExibeDetalhesVendaActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.AlteraClienteActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.AlteraFuncionarioActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.AlteraRoupaActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.MenuConsultasFuncActivity" >
+        </activity>
+        <activity android:name="applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ConsultaRoupaFuncActivity" >
+        </activity>
+    </application>
+
+</manifest>

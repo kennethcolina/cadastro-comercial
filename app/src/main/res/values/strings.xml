@@ -1,0 +1,11 @@
+<resources>
+>
+    <string name="app_name">Cadastro Comercial</string>
+
+    <string name="login_user_required">O campo usuário não pode ser vazio.</string>
+    <string name="login_password_required">O campo senha não pode ser vazio.</string>
+
+    <string name="value_required">O campo não pode ser vazio.</string>
+    <string name="login_user_size_invalid">O campo login deve ter entre 4 e 10 caracteres.</string>
+    <string name="login_pass_size_invalid">O campo senha deve ter entre 4 e 10 caracteres.</string>
+</resources>

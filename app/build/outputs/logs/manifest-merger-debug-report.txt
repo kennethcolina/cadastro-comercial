@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:3:5-25
+		INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:5:5-59:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/kenneth/Documents/cadastro_comercial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/kenneth/Documents/cadastro_comercial/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:10:9-40
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.LoginActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:11:19-92
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:15:27-74
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.MenuFuncActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:18:9-19:24
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:18:19-95
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ClienteActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:20:9-21:24
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:20:19-94
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.RoupaActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:22:9-23:24
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:22:19-92
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.VendaActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:24:9-25:24
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:24:19-92
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.FuncionarioActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:26:9-27:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:26:19-98
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.MenuGerenteActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:28:9-29:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:28:19-98
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ConsultaRoupaActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:30:9-31:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:30:19-100
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.MenuConsultasActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:32:9-33:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:32:19-100
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ConsultaFuncActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:34:9-35:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:34:19-99
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ConsultaClienteActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:36:9-37:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:36:19-102
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ExibeDetalhesActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:38:9-39:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:38:19-100
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ExibeDetalhesFuncActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:40:19-104
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ExibeDetalhesClienteActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:42:19-107
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ConsultaVendaActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:44:9-45:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:44:19-100
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ExibeDetalhesVendaActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:46:9-47:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:46:19-105
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.AlteraClienteActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:48:9-49:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:48:19-100
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.AlteraFuncionarioActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:50:9-51:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:50:19-104
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.AlteraRoupaActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:52:9-53:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:52:19-98
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.MenuConsultasFuncActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:54:9-55:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:54:19-104
+activity#applav.dcc.br.ufla.dcc.cadastro_comercial.ui.ConsultaRoupaFuncActivity
+ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:56:9-57:20
+	android:name
+		ADDED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml:56:19-104
+uses-sdk
+INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/kenneth/Documents/cadastro_comercial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/kenneth/Documents/cadastro_comercial/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kenneth/Documents/cadastro_comercial/app/src/main/AndroidManifest.xml
